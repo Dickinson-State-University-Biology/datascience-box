@@ -19,8 +19,8 @@ class: title-slide
 ### Biol 405: Biometry
 <hr />
 ]
-```{r echo = FALSE, out.width = "50%", fig.align="center"}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/500px-R_logo.svg.png")
+```{r echo = FALSE, out.width = "75%", fig.align="center"}
+knitr::include_graphics("https://dickinsonstatenews.com/wp-content/uploads/2020/01/2020-Buster-Thumbs-up-ARTICLE.jpg")
 ```
 
 
